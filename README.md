@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="eVTOL Competitive Intelligence Dashboard Banner" width="100%">
+</p>
+
 # eVTOL Competitive Intelligence Dashboard
 
 ## Setup
