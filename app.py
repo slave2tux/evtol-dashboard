@@ -3,7 +3,7 @@ from modules.fetch_news import fetch_mightyfly_news
 from modules.matrix_builder import get_competitor_matrix
 
 st.set_page_config(page_title="EVtol Dashboard", layout="wide")
-st.title("🛸 EVtol Market Dashboard")
+st.title("🚁 EVtol Market Dashboard")
 
 import datetime
 
